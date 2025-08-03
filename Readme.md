@@ -52,6 +52,7 @@ This section provides guidelines on how to experiment with and extend this noteb
 1. **Setup Environment**:
 
     - Create your virtual environment: `python3 -m venv venv`
+    - Activate virtual environment: `source venv/bin/activate`
     - Install dependencies: `pip3 install -r requirements.txt`
 
 2. **Prepare Your SRT Files**:
