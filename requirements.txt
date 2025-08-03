@@ -1,0 +1,4 @@
+jupyterlab
+coqui-tts
+pydub
+srt
