@@ -6,22 +6,3 @@ Hey Sarah, did you finish the project report?
 00:00:04,000 --> 00:00:08,500
 Almost done! Just need to review the final section.
 
-3
-00:00:09,500 --> 00:00:12,000
-Great! The deadline is tomorrow, right?
-
-4
-00:00:13,000 --> 00:00:18,500
-Yeah, but I think we're in good shape. How's your presentation coming along?
-
-5
-00:00:19,500 --> 00:00:22,500
-Pretty well. I'm just polishing the slides now.
-
-6
-00:00:23,500 --> 00:00:27,000
-Perfect. Want to grab coffee after we submit everything?
-
-7
-00:00:28,000 --> 00:00:31,000
-Absolutely! I could really use a break by then.
